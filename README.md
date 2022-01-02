@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmeliasluke.
 - 👀 I’m interested in Bioinformatics | Genomics | Pathogen Bioinformatics.
-- 🌱 I’m currently learning Master programme Bioinformatics | Data science.
+- 🌱 I’m currently learning Master programme Bioinformatics @ Wageningen Uni | Data science.
 - 💞️ I’m looking to collaborate on NGS data analysis | Bioinformatics | Pathogen bioinformatics.
 - 📫 How to reach me lmeliasluke@gmail.com
 
