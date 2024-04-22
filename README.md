@@ -9,7 +9,7 @@
 
 
 
-⚙️ My skills include:
+### ⚙️ Technical skills:
   - Languages: `Python`, `R`, `Bash`.
   - APIs: `FastAPI`
   - Databases: `MySQL`, `Postgresql`, `MongoDB`.
