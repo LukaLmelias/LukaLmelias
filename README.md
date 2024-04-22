@@ -15,7 +15,7 @@
   - Databases: `MySQL`, `Postgresql`, `MongoDB`.
   - Cloud: `AWS` and `GCP`.
   - CI/CD: `Jenkins`
-  - Containers: `Docker`, who else is the king of containerisation :)
+  - Containers: `Docker`, who else is the king of containerisation 😄
   - Pipelines: `Airflow`, `Snakemake`
   - Big Data: `Pyspark`
 
