@@ -1,13 +1,16 @@
 - 👋 Hi, I’m @LukaLmelias.
 - 👀 I’m interested in Data Engineering and Bioinformatics.
-- 🌱 Completed MSc Bioinformatics (Data Science) @ Wageningen University and Research.
+- 🌱 Completed MSc Bioinformatics (Data Science) @ Wageningen University and Research in The Netherlands.
 - Currently learning everything data engineering stacks: Pyspark, Airflow, Clouds, Docker, Jenkins CI/CD  
 - 💞️ I’m happy to collaborate on  data engineering / Bioinformatics problems.
 - 📫 How to reach me lmeliasluke@gmail.com.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaLmelias)](https://github.com/LukaLmelias/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaLmelias&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaLmelias&theme=shadow_green&show_icons=true)
 
 
 <!---
