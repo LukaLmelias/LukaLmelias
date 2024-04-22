@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LukaLmelias.
-- 👀 I’m interested in Bioinformatics | Data Engineering | Data Scientist.
-- 🌱 I graduated with MSc Bioinformatics (Data Science) @ Wageningen University and Research. 
-- 💞️ I’m looking for contracts on data engineering problem.
+- 👀 I’m interested in Data Engineering and Bioinformatics.
+- 🌱 Completed MSc Bioinformatics (Data Science) @ Wageningen University and Research.
+- Currently learning everything data engineering stacks: Pyspark, Airflow, Clouds, Docker, Jenkins CI/CD  
+- 💞️ I’m happy to collaborate on  data engineering / Bioinformatics problems.
 - 📫 How to reach me lmeliasluke@gmail.com.
 
 
