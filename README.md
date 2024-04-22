@@ -6,6 +6,19 @@
 - 📫 How to reach me lmeliasluke@gmail.com.
 
 
+
+
+⚙️ My skills include:
+  - Languages: `Python`, `R`, `Bash`.
+  - APIs: `FastAPI`
+  - Databases: `MySQL`, `Postgresql`, `MongoDB`.
+  - Cloud: `AWS` and `GCP`.
+  - CI/CD: `Jenkins`
+  - Containers: `Docker`, who else is the king of containerisation :)
+  - Pipelines: `Airflow`, `Snakemake`
+  - Big Data: `Pyspark`
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaLmelias)](https://github.com/LukaLmelias/github-readme-stats)
 
 
