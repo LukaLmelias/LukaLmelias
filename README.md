@@ -1,5 +1,5 @@
 ## This man Luka
-- 👋 Hi, I’m @LukaLmelias.
+- 👋 Hi, I’m @LukaLmelias, Bioinformatician at Naturalis Biodiversity Center.
 - 👀 I’m interested in Data Engineering and Bioinformatics.
 - 🌱 Completed MSc Bioinformatics (Data Science) @ Wageningen University and Research in The Netherlands.
 - Currently learning everything data engineering stacks: Pyspark, Airflow, Clouds, Docker, Kubernetes, Jenkins CI/CD  
